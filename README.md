@@ -131,6 +131,10 @@
 10-a program o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/10aoutputt.png
 
 
+10-b program o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/10boutputtt.png
+
+
+
 
 
 
