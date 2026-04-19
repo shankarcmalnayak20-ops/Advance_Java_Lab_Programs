@@ -78,6 +78,8 @@
 
 
 4a-program o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/4aoutputt.png
+4b-program o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/4boutputt.png
+
 
 
 
