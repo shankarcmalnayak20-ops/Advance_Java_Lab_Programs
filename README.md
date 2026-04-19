@@ -45,7 +45,11 @@ ListInterfaceDemo o/p link : https://github.com/shankarcmalnayak20-ops/Advance_J
 
 
 3bq-1 o/p:https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/3bq1output.png
+
+
 3bq-2 o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/3bq2output.png
+3bq-3 o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/3bq3output.png
+
 
 
 
