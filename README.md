@@ -128,6 +128,10 @@
 9-c program o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/9coutputt.png
 
 
+10-a program o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/10aoutputt.png
+
+
+
 
 
 
