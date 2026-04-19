@@ -104,6 +104,10 @@
 6b-program o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/6boutputtt.png
 
 
+6-c program o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/6coutputtt.png
+
+
+
 
 
 
