@@ -86,6 +86,10 @@
 4c-program o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/4coutputt.png
 
 
+5a-program o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/5aoutputtt.png
+
+
+
 
 
 
