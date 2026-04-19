@@ -87,7 +87,13 @@
 
 
 5a-program o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/5aoutputtt.png
+
+
 5b-program o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/5boutputtt.png
+
+
+5c-program o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/5coutputtt.png
+
 
 
 
