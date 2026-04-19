@@ -9,7 +9,11 @@ ListInterfaceDemo o/p link : https://github.com/shankarcmalnayak20-ops/Advance_J
 1c-1 : https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/p6output.png
 1c-2 : https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/p7output.png
 1c-3: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/p8output.png
-1c-3 : https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/p9output.png
+1c-4 : https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/p9output.png
+1c-5 : https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/p10output.png
+
+
+
 
 
 
