@@ -119,6 +119,10 @@
 8-b program o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/8boutputt.png
 
 
+9-a program o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/9aoutputt.png
+
+
+
 
 
 
