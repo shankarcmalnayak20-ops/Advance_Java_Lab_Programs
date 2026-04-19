@@ -59,6 +59,14 @@ ListInterfaceDemo o/p link : https://github.com/shankarcmalnayak20-ops/Advance_J
 3bq-5 o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/3bq5output.png
 
 
+3c-string exercise program:
+3cq-6 o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/3cq6output.png
+
+
+
+
+
+
 
 
 
