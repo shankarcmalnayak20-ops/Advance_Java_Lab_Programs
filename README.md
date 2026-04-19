@@ -1,4 +1,4 @@
-ListInterfaceDemo o/p link : https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/exaoneoutput.png 
+1a-ListInterfaceDemo o/p link : https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/exaoneoutput.png 
 
 1b-arrat list programs :1b-1 o/p : https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/p1output.png
 
@@ -76,6 +76,8 @@ ListInterfaceDemo o/p link : https://github.com/shankarcmalnayak20-ops/Advance_J
 
 3cq-10 o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/3cq10output.png
 
+
+4a-program o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/4aoutputt.png
 
 
 
