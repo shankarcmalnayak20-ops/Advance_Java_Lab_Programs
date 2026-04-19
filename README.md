@@ -95,6 +95,10 @@
 5c-program o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/5coutputtt.png
 
 
+5d-program o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/5doutputtt.png
+
+
+
 
 
 
