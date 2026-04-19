@@ -125,6 +125,10 @@
 9-b program o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/9boutputt.png
 
 
+9-c program o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/9coutputt.png
+
+
+
 
 
 
