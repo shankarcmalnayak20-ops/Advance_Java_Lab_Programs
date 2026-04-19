@@ -110,6 +110,10 @@
 7-a program o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/7aoutputtt.png
 
 
+7-b program o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/7boutputtt.png
+
+
+
 
 
 
