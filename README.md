@@ -98,6 +98,10 @@
 5d-program o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/5doutputtt.png
 
 
+6a-program o/p: https://github.com/shankarcmalnayak20-ops/Advance_Java_Lab_Programs/blob/main/6a.ouput.png
+
+
+
 
 
 
